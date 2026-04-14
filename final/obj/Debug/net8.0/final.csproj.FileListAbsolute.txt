@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\bin\Debug\net8.0\final.exe
+C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\bin\Debug\net8.0\final.deps.json
+C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\bin\Debug\net8.0\final.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\bin\Debug\net8.0\final.dll
+C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\bin\Debug\net8.0\final.pdb
+C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\obj\Debug\net8.0\final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\obj\Debug\net8.0\final.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\obj\Debug\net8.0\final.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\obj\Debug\net8.0\final.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\obj\Debug\net8.0\final.dll
+C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\obj\Debug\net8.0\refint\final.dll
+C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\obj\Debug\net8.0\final.pdb
+C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\obj\Debug\net8.0\final.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\obj\Debug\net8.0\ref\final.dll
