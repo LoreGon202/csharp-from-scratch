@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 
 namespace final
 {
@@ -7,8 +6,14 @@ namespace final
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Selecciona un challenge (6-13): ");
-            int option = int.Parse(Console.ReadLine());
+            var menu = new Menu();
+            menu.Show();
+
+            int option;
+            while (!int.TryParse(Console.ReadLine(), out option))
+            {
+                Console.Write("Ingrese un número válido: ");
+            }
 
             switch(option)
             {

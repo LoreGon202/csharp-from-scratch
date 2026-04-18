@@ -1,19 +1,21 @@
 using System;
 
-namespace FinalProject.Challenges
+namespace final
 {
     public class Challenge6
     {
         public void Run()
         {
-            Console.Write("Ingrese un número: ");
-            int numero = int.Parse(Console.ReadLine());
-
-            Console.WriteLine($"Tabla del {numero}:");
+            int n;
+            Console.Write("Número: ");
+            while (!int.TryParse(Console.ReadLine(), out n))
+            {
+                Console.Write("Ingrese un número válido: ");
+            }
 
             for (int i = 1; i <= 10; i++)
             {
-                Console.WriteLine($"{numero} x {i} = {numero * i}");
+                Console.WriteLine($"{n} x {i} = {n * i}");
             }
         }
     }

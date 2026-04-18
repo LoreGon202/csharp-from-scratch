@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bucles_polimorfismo_excepciones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+661fe13a2588ffcbd0532592ebd6c6781431d039")]
 [assembly: System.Reflection.AssemblyProductAttribute("bucles_polimorfismo_excepciones")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bucles_polimorfismo_excepciones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
