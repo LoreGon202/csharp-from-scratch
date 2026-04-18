@@ -7,6 +7,7 @@ C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\obj\Debug\n
 C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\obj\Debug\net8.0\final.AssemblyInfoInputs.cache
 C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\obj\Debug\net8.0\final.AssemblyInfo.cs
 C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\obj\Debug\net8.0\final.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\obj\Debug\net8.0\final.sourcelink.json
 C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\obj\Debug\net8.0\final.dll
 C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\obj\Debug\net8.0\refint\final.dll
 C:\Users\Usuario\OneDrive\Desktop\csharp-from-scratch-FINAL-OK\final\obj\Debug\net8.0\final.pdb
